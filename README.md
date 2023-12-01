@@ -10,3 +10,6 @@ IMAGE 1           |  IMAGE 2 | RESULT
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](src/print1.png)  |  ![](src/print2.png)  | ![](src/result.png)
 
+O resultado final é a imagem da coluna RESULT, que realça as áreas onde o código encontrou as diferenças entre as duas imagens.
+
+Também preenchemos o campo DIFERENCA na tabela de entrada, assim conseguimos ordenar as imagens do maior para o menor grau de diferença, facilitando o trabalho de homologação
